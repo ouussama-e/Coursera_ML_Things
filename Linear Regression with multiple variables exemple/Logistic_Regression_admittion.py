@@ -16,6 +16,7 @@ data.head()
 
 # fuction of visualisation of data 
 
+
 def visialisation_data():
         variables = {}
         
